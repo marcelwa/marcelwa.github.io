@@ -19,7 +19,7 @@ redirect_from:
 * B.Sc. in Computer Science, University of Bremen, 2015
   * Thesis: _Optimization of Quantum Circuits for Linear Nearest Neighbor Architectures_
 
-## Work experience
+## Work Experience
 
 * Since 2016: Researcher at University of Bremen
   * Physical design of post-CMOS Emerging Nanotechnologies
