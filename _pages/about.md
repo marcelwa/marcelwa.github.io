@@ -18,4 +18,4 @@ Furthermore, I have experience in Quantum Computing, Reversible Logic, Digital M
 
 As part of the collaborative research center [EASE - Everyday Activity Science and Engineering](https://ease-crc.org/), I also work on formal methods to explore verification capabilities for plans of autonomous robotic agents.
 
-In my free time I work out and do martial arts, I travel the world and try to take decent looking digital photographs. I love excellent stories and science fact as well as science fiction.
+In my free time, I work out and do martial arts, I travel the world and try to take decent looking digital photographs. I love excellent stories and science fact as well as science fiction.
