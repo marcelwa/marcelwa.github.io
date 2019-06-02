@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * Ph.D. in Computer Science, University of Bremen, 2020 (expected)
   * Thesis: _Large Scale Design for Field-coupled Nanocomputing Circuits_ (working title)
 * M.Sc. in Computer Science, University of Bremen, 2016
@@ -19,8 +19,8 @@ Education
 * B.Sc. in Computer Science, University of Bremen, 2015
   * Thesis: _Optimization of Quantum Circuits for Linear Nearest Neighbor Architectures_
 
-Work experience
-======
+## Work experience
+
 * Since 2016: Researcher at University of Bremen
   * Physical design of post-CMOS Emerging Nanotechnologies
   * Verification of CRAM plans for PR2 robots at the collaborative research center EASE
@@ -31,7 +31,7 @@ Work experience
   * Applied machine learning on gaming statistics for predicting winning teams
 
 * 2015--2016: Independent Study at University of Bremen
-  * Exact reactive synthesis from LTL specifications using Satisfiability Modulo Theories (SMT)
+  * Reactive system synthesis from LTL specifications using Satisfiability Modulo Theories (SMT)
   * Supervisor: Prof. Dr. Rüdiger Ehlers
 
 * 2015--2016: Research Assistant at German Research Center for Artificial Intelligence (DFKI)
@@ -45,9 +45,9 @@ Work experience
   * Technical Computer Science 1
     * Computer architecture and embedded systems, Boolean Algebra, logic synthesis
     * Supervisor: Prof. Dr. Rolf Drechsler
-  
-Skills
-======
+
+## Skills
+
 * Languages
   * German: mother tongue
   * English: fluent
@@ -67,26 +67,26 @@ Skills
   * Satisfiability Solving
   * Graph and Complexity Theory
 
-Conference and Journal Publications
-======
+## Conference and Journal Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Invited Talks
-======
+
+## Invited Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching Experience
-======
+
+## Teaching Experience
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Professional Service
-======
+
+## Professional Service
+
 * Reviewer for international conferences and journals including
   * Design, Automation and Test in Europe (DATE)
   * International Conference On Computer Aided Design (ICCAD)
