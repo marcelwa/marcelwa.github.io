@@ -46,6 +46,28 @@ redirect_from:
     * Computer architecture and embedded systems, Boolean Algebra, logic synthesis
     * Supervisor: Prof. Dr. Rolf Drechsler
 
+## Conference and Journal Publications
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+## Awards
+
+* ISVLSI 2019 Best Research Demo Award: **"fiction: Electronic Design Automation for Field-coupled Nanocomputing Circuits"**
+
+## Invited Talks
+
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+## Teaching Experience
+
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> 
+
 ## Skills
 
 * Languages
@@ -66,24 +88,6 @@ redirect_from:
   * Logic Design
   * Satisfiability Solving
   * Graph and Complexity Theory
-
-## Conference and Journal Publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-## Invited Talks
-
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-## Teaching Experience
-
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 ## Professional Service
 
