@@ -54,7 +54,7 @@ redirect_from:
 
 ## Awards
 
-* ISVLSI 2019 Best Research Demo Award: **"fiction: Electronic Design Automation for Field-coupled Nanocomputing Circuits"**
+* ISVLSI 2019 Best Research Demo Award: **"fiction: Electronic Design Automation for Field-coupled Nanocomputing Circuits"** (c.f. DFKI [press release](https://www.dfki.de/web/news/detail/News/mehr-als-nur-fiktion-entwurfswerkzeug-fuer-nanotechnologie-fiction-mit-best-research-demo-award-ausg/) in German)
 
 ## Invited Talks
 
