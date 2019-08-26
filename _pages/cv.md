@@ -54,7 +54,7 @@ redirect_from:
 
 ## Awards
 
-* ISVLSI 2019 Best Research Demo Award: **"fiction: Electronic Design Automation for Field-coupled Nanocomputing Circuits"** (c.f. DFKI [press release](https://www.dfki.de/web/news/detail/News/mehr-als-nur-fiktion-entwurfswerkzeug-fuer-nanotechnologie-fiction-mit-best-research-demo-award-ausg/) in German)
+* ISVLSI 2019 Best Research Demo Award: **"[fiction](https://github.com/marcelwa/fiction): Electronic Design Automation for Field-coupled Nanocomputing Circuits"** (c.f. DFKI [press release](https://www.dfki.de/web/news/detail/News/mehr-als-nur-fiktion-entwurfswerkzeug-fuer-nanotechnologie-fiction-mit-best-research-demo-award-ausg/) in German)
 
 ## Invited Talks
 
@@ -92,6 +92,7 @@ redirect_from:
 ## Professional Service
 
 * Reviewer for international conferences and journals including
+  * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
   * Design, Automation and Test in Europe (DATE)
   * International Conference On Computer Aided Design (ICCAD)
   * ACM Journal on Emerging Technologies in Computing (JETC)
