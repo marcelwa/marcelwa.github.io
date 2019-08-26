@@ -39,7 +39,7 @@ redirect_from:
   * Supervisor: Prof. Dr. Christoph Lüth
 
 * 2013--2015: Student Tutor / Teaching Assistant at University of Bremen
-  * Technical Computer Science 1
+  * Practical Computer Science 1
     * Java basics, object-oriented programming, algorithms and data structures
     * Supervisor: Dr. Karsten Hölscher
   * Technical Computer Science 1
