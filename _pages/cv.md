@@ -78,8 +78,9 @@ redirect_from:
   * C/C++
   * Python
   * Java
-  * Git, SVN
   * Bash
+  * Git, SVN
+  * Continuous Integration
 * Reserach interests
   * Field-coupled Nanocomputing
   * Quantum Computing
@@ -93,12 +94,13 @@ redirect_from:
 
 * Reviewer for international conferences and journals including
   * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-  * Design, Automation and Test in Europe (DATE)
   * International Conference On Computer Aided Design (ICCAD)
+  * Design, Automation and Test in Europe (DATE)
   * ACM Journal on Emerging Technologies in Computing (JETC)
   * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
-  * International Conference on VLSI Design (VLSID)
   * ACM Great Lakes Symposium on VLSI (GLSVLSI)
+  * Journal on Analog Integrated Circuits and Signal Processing (ALOG)
+  * International Conference on VLSI Design (VLSID)
   * IEEE International Symposium on Multiple-Valued Logic (ISMVL)
   * IEEE International Symposium on Embedded Computing and System Design (ISED)
   * International Workshop on Logic and Synthesis (IWLS)
