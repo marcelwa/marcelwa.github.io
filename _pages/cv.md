@@ -104,3 +104,4 @@ redirect_from:
   * IEEE International Symposium on Multiple-Valued Logic (ISMVL)
   * IEEE International Symposium on Embedded Computing and System Design (ISED)
   * International Workshop on Logic and Synthesis (IWLS)
+  * Integration - The VLSI Journal
