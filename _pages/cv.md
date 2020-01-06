@@ -24,7 +24,7 @@ redirect_from:
 * Since 2016: Researcher at University of Bremen
   * Physical design of post-CMOS Emerging Nanotechnologies
   * Verification of CRAM plans for PR2 robots at the collaborative research center EASE
-  * Teaching undergraduate courses
+  * Teaching undergraduate courses and supervising Bachelor's and Master's theses
   * Supervisor: Prof. Dr. Rolf Drechsler
 
 * 2016: Bremen Big Data Challenge
