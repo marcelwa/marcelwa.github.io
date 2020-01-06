@@ -94,6 +94,7 @@ redirect_from:
 
 * Reviewer for international conferences and journals including
   * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+  * Design Automation Conference (DAC)
   * International Conference On Computer Aided Design (ICCAD)
   * Design, Automation and Test in Europe (DATE)
   * ACM Journal on Emerging Technologies in Computing (JETC)
