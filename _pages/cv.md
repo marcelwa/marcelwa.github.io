@@ -100,6 +100,7 @@ redirect_from:
   * ACM Journal on Emerging Technologies in Computing (JETC)
   * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
   * ACM Great Lakes Symposium on VLSI (GLSVLSI)
+  * Microprocessors and Microsystems: Embedded Hardware Design (MICPRO)
   * Journal on Analog Integrated Circuits and Signal Processing (ALOG)
   * International Conference on VLSI Design (VLSID)
   * IEEE International Symposium on Multiple-Valued Logic (ISMVL)
