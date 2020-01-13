@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in the Research Group of Computer Architecture at University of Bremen. My research interests include Emerging Nanotechnologies, Algorithmics, and Formal Methods. 
 
-I work towards closing the design gap between **Field-Coupled Nanocomputing** (FCN) Circuits and classical CMOS technologies. As a promising class of post-CMOS devices, FCN technologies like **Quantum-dot Cellular Automata** (QCA) or **Nanomagnet Logic** (NML) allow for highest processing performance and, at the same time, tremendously low power dissipation.
+I work towards closing the design gap between **Field-coupled Nanocomputing** (FCN) Circuits and classical CMOS technologies. As a promising class of post-CMOS devices, FCN technologies like **Quantum-dot Cellular Automata** (QCA) or **Nanomagnet Logic** (NML) allow for highest processing performance and, at the same time, tremendously low power dissipation.
 
 For my experiments, proof-of-concept implementations, and as a basis for future research in the domain, I have developed the [fiction framework](https://github.com/marcelwa/fiction).
 
