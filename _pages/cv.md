@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 * Ph.D. in Computer Science, University of Bremen, 2020 (expected)
-  * Thesis: _Large Scale Design for Field-coupled Nanocomputing Circuits_ (working title)
+  * Thesis: _Design Automation for Field-coupled Nanotechnologies_ (working title)
 * M.Sc. in Computer Science, University of Bremen, 2016
   * Specialization in _Safety, Security, and Quality_
   * Thesis: _Exact Synthesis of Abstraction-level Independent Logic Networks_
