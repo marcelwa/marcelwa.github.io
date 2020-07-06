@@ -56,6 +56,8 @@ redirect_from:
 
 * ISVLSI 2019 Best Research Demo Award: **"[fiction](https://github.com/marcelwa/fiction): Electronic Design Automation for Field-coupled Nanocomputing Circuits"** (c.f. DFKI [press release](https://www.dfki.de/web/news/detail/News/mehr-als-nur-fiktion-entwurfswerkzeug-fuer-nanotechnologie-fiction-mit-best-research-demo-award-ausg/) in German)
 
+* ISVLSI 2020 Best Student Forum Paper Award: **"Design Automation for Field-coupeld Nanotechnologies"** (c.f. the respective [paper](https://marcelwa.github.io/files/2020_004.pdf))
+
 ## Invited Talks
 
   <ul>{% for post in site.talks reversed %}
