@@ -54,9 +54,15 @@ redirect_from:
 
 ## Awards
 
-* ISVLSI 2019 Best Research Demo Award: **"[fiction](https://github.com/marcelwa/fiction): Electronic Design Automation for Field-coupled Nanocomputing Circuits"** (c.f. DFKI [press release](https://www.dfki.de/web/news/detail/News/mehr-als-nur-fiktion-entwurfswerkzeug-fuer-nanotechnologie-fiction-mit-best-research-demo-award-ausg/) in German)
+* DAC 2020 Best Young Student Fellow Research Video Award: **"Time Multiplexing Via Circuit Folding"** (c.f. the respective [video](https://drive.google.com/file/d/1W9rxeAM0fTMGeCDA4AEnpbKBZnImbbyI/view?usp=sharing))
+
+* DAC 2020 Young Student Fellow Program Scholarship (c.f. the respective [certificate of appreciation](https://marcelwa.github.io/files/2020_DAC_YFP_CoA.pdf))
 
 * ISVLSI 2020 Best Student Forum Paper Award: **"Design Automation for Field-coupeld Nanotechnologies"** (c.f. the respective [paper](https://marcelwa.github.io/files/2020_004.pdf))
+
+* ISVLSI 2020 Best Paper Award Candidate: **"Bail on Balancing: An Alternative Approach to the Physical Design of Field-coupled Nanocomputing Circuits"** (c.f. the respective [paper](https://marcelwa.github.io/files/2020_003.pdf))
+
+* ISVLSI 2019 Best Research Demo Award: **"[fiction](https://github.com/marcelwa/fiction): Electronic Design Automation for Field-coupled Nanocomputing Circuits"** (c.f. DFKI [press release](https://www.dfki.de/web/news/detail/News/mehr-als-nur-fiktion-entwurfswerkzeug-fuer-nanotechnologie-fiction-mit-best-research-demo-award-ausg/) in German)
 
 ## Invited Talks
 
@@ -75,7 +81,6 @@ redirect_from:
 * Languages
   * German: mother tongue
   * English: fluent
-  * Italian: notions
 * Programming
   * C/C++
   * Python
