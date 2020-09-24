@@ -105,6 +105,7 @@ redirect_from:
   * International Conference On Computer Aided Design (ICCAD)
   * Design, Automation and Test in Europe (DATE)
   * ACM Journal on Emerging Technologies in Computing (JETC)
+  * IEEE Transactions on Circuits and Systems (TCAS)
   * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
   * ACM Great Lakes Symposium on VLSI (GLSVLSI)
   * Euromicro Conference on Digital System Design (DSD)
