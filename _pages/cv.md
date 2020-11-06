@@ -28,7 +28,7 @@ redirect_from:
   * Supervisor: Prof. Dr. Rolf Drechsler
 
 * 2016: Bremen Big Data Challenge
-  * Applied machine learning on gaming statistics for predicting winning teams
+  * Applied machine learning on _League of Legends_ statistics to predict winning teams
 
 * 2015--2016: Independent Study at University of Bremen
   * Reactive system synthesis from LTL specifications using Satisfiability Modulo Theories (SMT)
@@ -117,3 +117,6 @@ redirect_from:
   * International Workshop on Logic and Synthesis (IWLS)
   * Integration - The VLSI Journal
   * IEEE Embedded Systems Letters (ESL)
+* Executive team for international conferences
+  * Staff member at European Test Symposium (ETS) 2018
+  * Technical Operator at International Conference On Computer Aided Design (ICCAD) 2020
