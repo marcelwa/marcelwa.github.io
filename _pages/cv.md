@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Computer Science, University of Bremen, 2020 (expected)
+* Ph.D. in Computer Science, University of Bremen, 2021 (expected)
   * Thesis: _Design Automation for Field-coupled Nanotechnologies_ (working title)
 * M.Sc. in Computer Science, University of Bremen, 2016
   * Specialization in _Safety, Security, and Quality_
@@ -52,7 +52,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Awards
+## Honors and Awards
 
 * DAC 2020 Best Young Student Fellow Research Video Award: **"Time Multiplexing Via Circuit Folding"** (cf. the respective [video](https://drive.google.com/file/d/1W9rxeAM0fTMGeCDA4AEnpbKBZnImbbyI/view?usp=sharing))
 
@@ -107,6 +107,7 @@ redirect_from:
   * ACM Journal on Emerging Technologies in Computing (JETC)
   * IEEE Transactions on Circuits and Systems (TCAS)
   * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
+  * European Test Symposium (ETS)
   * ACM Great Lakes Symposium on VLSI (GLSVLSI)
   * Euromicro Conference on Digital System Design (DSD)
   * Microprocessors and Microsystems: Embedded Hardware Design (MICPRO)
