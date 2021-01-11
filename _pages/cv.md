@@ -113,6 +113,7 @@ redirect_from:
   * Microprocessors and Microsystems: Embedded Hardware Design (MICPRO)
   * Journal on Analog Integrated Circuits and Signal Processing (ALOG)
   * International Conference on VLSI Design (VLSID)
+  * IEEE Design & Test (D&T)
   * IEEE International Symposium on Multiple-Valued Logic (ISMVL)
   * IEEE International Symposium on Embedded Computing and System Design (ISED)
   * International Workshop on Logic and Synthesis (IWLS)
