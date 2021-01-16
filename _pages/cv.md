@@ -54,6 +54,8 @@ redirect_from:
 
 ## Honors and Awards
 
+* ASP-DAC 2021 Best Paper Award Candidate: **"One-pass Synthesis for Field-coupled Nanocomputing Technologies"** (cf. the respective [paper](https://marcelwa.github.io/files/2021_001.pdf))
+
 * DAC 2020 Best Young Student Fellow Research Video Award: **"Time Multiplexing Via Circuit Folding"** (cf. the respective [video](https://drive.google.com/file/d/1W9rxeAM0fTMGeCDA4AEnpbKBZnImbbyI/view?usp=sharing))
 
 * DAC 2020 Young Student Fellow Program Scholarship (cf. the respective [certificate of appreciation](https://marcelwa.github.io/files/2020_DAC_YFP_CoA.pdf))
