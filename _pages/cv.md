@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Computer Science, University of Bremen, 2021 (expected)
-  * Thesis: _Design Automation for Field-coupled Nanotechnologies_ (working title)
+* Ph.D. in Computer Science, University of Bremen, 2021
+  * Thesis: _Design Automation for Field-coupled Nanotechnologies_
 * M.Sc. in Computer Science, University of Bremen, 2016
   * Specialization in _Safety, Security, and Quality_
   * Thesis: _Exact Synthesis of Abstraction-level Independent Logic Networks_
@@ -88,12 +88,12 @@ redirect_from:
   * Python
   * Java
   * Bash
-  * Git, SVN
+  * Git
   * Continuous Integration
 * Reserach interests
   * Field-coupled Nanocomputing
   * Quantum Computing
-  * Reversible Computing
+  * Physical Design
   * Algorithms
   * Logic Design
   * Satisfiability Solving
