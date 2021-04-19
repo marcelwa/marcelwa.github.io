@@ -21,30 +21,30 @@ redirect_from:
 
 ## Work Experience
 
-* Since 2016: Researcher at University of Bremen
+* Since 2016: Researcher and Ph.D. student at University of Bremen
   * Physical design of post-CMOS Emerging Nanotechnologies
   * Verification of CRAM plans for PR2 robots at the collaborative research center EASE
   * Teaching undergraduate courses and supervising Bachelor's and Master's theses
-  * Supervisor: Prof. Dr. Rolf Drechsler
+  * Supervisor: Prof. Dr. Rolf Drechsler, _Research Group of Computer Architecture_
 
 * 2016: Bremen Big Data Challenge
   * Applied machine learning on _League of Legends_ statistics to predict winning teams
 
 * 2015--2016: Independent Study at University of Bremen
   * Reactive system synthesis from LTL specifications using Satisfiability Modulo Theories (SMT)
-  * Supervisor: Prof. Dr. Rüdiger Ehlers
+  * Supervisor: Prof. Dr. Rüdiger Ehlers, _Modelling of Technical Systems Research Group_
 
 * 2015--2016: Research Assistant at German Research Center for Artificial Intelligence (DFKI)
   * Formal verification of access control systems
-  * Supervisor: Prof. Dr. Christoph Lüth
+  * Supervisor: Prof. Dr. Christoph Lüth, _Cyber Physical Systems_
 
 * 2013--2015: Student Tutor / Teaching Assistant at University of Bremen
   * Practical Computer Science 1
     * Java basics, object-oriented programming, algorithms and data structures
-    * Supervisor: Dr. Karsten Hölscher
+    * Supervisor: Dr. Karsten Hölscher, _Software Engineering Group_
   * Technical Computer Science 1
     * Computer architecture and embedded systems, Boolean Algebra, logic synthesis
-    * Supervisor: Prof. Dr. Rolf Drechsler
+    * Supervisor: Prof. Dr. Rolf Drechsler, _Research Group of Computer Architecture_
 
 ## Conference and Journal Publications
 
@@ -101,7 +101,7 @@ redirect_from:
 
 ## Professional Service
 
-* Reviewer for international conferences and journals including
+* Reviewer for international conferences and journals (verified on [my publons profile](https://publons.com/researcher/4379393/marcel-walter/peer-review/) where applicable) including
   * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
   * Design Automation Conference (DAC)
   * International Conference On Computer Aided Design (ICCAD)
@@ -122,5 +122,5 @@ redirect_from:
   * Integration - The VLSI Journal
   * IEEE Embedded Systems Letters (ESL)
 * Executive team for international conferences
-  * Staff member at European Test Symposium (ETS) 2018
   * Technical Operator at International Conference On Computer Aided Design (ICCAD) 2020
+  * Staff member at European Test Symposium (ETS) 2018
