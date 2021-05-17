@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Computer Science, University of Bremen, 2021
+* Ph.D. in Computer Science (_summa cum laude_), University of Bremen, 2021
   * Thesis: _Design Automation for Field-coupled Nanotechnologies_
 * M.Sc. in Computer Science, University of Bremen, 2016
   * Specialization in _Safety, Security, and Quality_
