@@ -109,6 +109,7 @@ redirect_from:
   * ACM Journal on Emerging Technologies in Computing (JETC)
   * IEEE Transactions on Circuits and Systems (TCAS)
   * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
+  * Journal of Computational Electronics (JCEL)
   * European Test Symposium (ETS)
   * ACM Great Lakes Symposium on VLSI (GLSVLSI)
   * Euromicro Conference on Digital System Design (DSD)
