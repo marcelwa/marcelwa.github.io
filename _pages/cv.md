@@ -21,6 +21,15 @@ redirect_from:
 
 ## Work Experience
 
+* 2020: High Level Synthesis Tutorial by _Cadence_ @ DAC 2020
+  * Logic synthesis of a Convolutional Neural Network that serves as an AI Accelerator for Image Recognition (cf. the [issued badge](https://www.credly.com/badges/2533bfee-654b-4a28-9ef9-d44b68903ea5))
+  
+* Since 2018: Initiator and maintainer of the [_fiction_ framework](https://github.com/marcelwa/fiction)
+  * Design Automation of Field-coupled Nanotechnologies (cf. the [tool paper](https://arxiv.org/pdf/1905.02477.pdf))
+  * Open-source project for researchers and developers
+  * Featured in several third-party publications (cf. the [citing papers](https://scholar.google.de/scholar?oi=bibs&hl=de&authuser=1&cites=6148414860275726732&as_sdt=5))
+  * Honored with a Best Research Demo Award (see below)
+  
 * Since 2016: Researcher and Ph.D. student at University of Bremen
   * Physical design of post-CMOS Emerging Nanotechnologies
   * Verification of CRAM plans for PR2 robots at the collaborative research center EASE
@@ -54,9 +63,9 @@ redirect_from:
 
 ## Honors and Awards
 
-* ASP-DAC 2021 Best Paper Award Candidate: **"One-pass Synthesis for Field-coupled Nanocomputing Technologies"** (cf. the respective [paper](https://marcelwa.github.io/files/2021_001.pdf))
+* ASP-DAC 2021 Best Paper Award Candidate: **"One-pass Synthesis for Field-coupled Nanocomputing Technologies"** (cf. the conference website's [excerpt](https://marcelwa.github.io/files/2021_ASP-DAC_Best_Paper_Candidate.png) and the respective [paper](https://marcelwa.github.io/files/2021_001.pdf))
 
-* DAC 2020 Best Young Student Fellow Research Video Award: **"Time Multiplexing Via Circuit Folding"** (cf. the respective [video](https://drive.google.com/file/d/1W9rxeAM0fTMGeCDA4AEnpbKBZnImbbyI/view?usp=sharing))
+* DAC 2020 Best Young Student Fellow Research Video Award: **"Time Multiplexing Via Circuit Folding"** (cf. the [issued reward](https://marcelwa.github.io/files/2020_DAC_YFP_Research_Video_Award.jpg) and the respective [video](https://drive.google.com/file/d/1W9rxeAM0fTMGeCDA4AEnpbKBZnImbbyI/view?usp=sharing))
 
 * DAC 2020 Young Student Fellow Program Scholarship (cf. the respective [certificate of appreciation](https://marcelwa.github.io/files/2020_DAC_YFP_CoA.pdf))
 
@@ -83,6 +92,7 @@ redirect_from:
 * Languages
   * German: mother tongue
   * English: fluent
+  * Dutch: notions
 * Programming
   * C/C++
   * Python
