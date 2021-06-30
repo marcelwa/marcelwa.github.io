@@ -73,7 +73,7 @@ redirect_from:
 
 * ISVLSI 2020 Best Paper Award Candidate: **"Bail on Balancing: An Alternative Approach to the Physical Design of Field-coupled Nanocomputing Circuits"** (cf. the respective [paper](https://marcelwa.github.io/files/2020_003.pdf))
 
-* ISVLSI 2019 Best Research Demo Award: **"[fiction](https://github.com/marcelwa/fiction): Electronic Design Automation for Field-coupled Nanocomputing Circuits"** (cf. DFKI [press release](https://www.dfki.de/web/news/detail/News/mehr-als-nur-fiktion-entwurfswerkzeug-fuer-nanotechnologie-fiction-mit-best-research-demo-award-ausg/) in German)
+* ISVLSI 2019 Best Research Demo Award: **"[fiction](https://github.com/marcelwa/fiction): Electronic Design Automation for Field-coupled Nanocomputing Circuits"** (cf. the [award certificate](https://marcelwa.github.io/files/2019_ISVLSI_Best_Research_Demo_Award.jpg) and a DFKI [press release](https://www.dfki.de/web/news/detail/News/mehr-als-nur-fiktion-entwurfswerkzeug-fuer-nanotechnologie-fiction-mit-best-research-demo-award-ausg/) in German)
 
 ## Invited Talks
 
