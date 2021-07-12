@@ -117,6 +117,7 @@ redirect_from:
   * International Conference On Computer Aided Design (ICCAD)
   * Design, Automation and Test in Europe (DATE)
   * ACM Journal on Emerging Technologies in Computing (JETC)
+  * IEEE Transactions on Nanotechnology (TNANO)
   * IEEE Transactions on Circuits and Systems (TCAS)
   * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
   * Journal of Computational Electronics (JCEL)
