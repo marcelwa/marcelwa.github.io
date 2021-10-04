@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in the Department for Electrical and Computer Engineering at the Technical *University of Munich* (TUM). My research interests include design automation for emerging circuit technologies, algorithmics, and formal methods.
+I am a Postdoctoral Researcher in the Department for Electrical and Computer Engineering at the *Technical University of Munich* (TUM). My research interests include design automation for emerging circuit technologies, algorithmics, and formal methods.
 
 I work towards closing the design gap between **Field-coupled Nanocomputing** (FCN) circuits and classical CMOS technologies. As a promising class of post-CMOS devices, FCN technologies like **Quantum-dot Cellular Automata** (QCA) and **Silicon Dangling Bonds** (SiDB) allow for ultra-high processing performance and, at the same time, tremendously low power dissipation.
 
