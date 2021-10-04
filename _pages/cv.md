@@ -21,6 +21,9 @@ redirect_from:
 
 ## Work Experience
 
+* Since 2021: Postdoctoral Researcher at the Technical University of Munich (TUM)
+  * Design Automation for post-CMOS Emerging Nanotechnologies
+
 * 2020: High Level Synthesis Tutorial by _Cadence_ @ DAC 2020
   * Logic synthesis of a Convolutional Neural Network that serves as an AI Accelerator for Image Recognition (cf. the [issued badge](https://www.credly.com/badges/2533bfee-654b-4a28-9ef9-d44b68903ea5))
   
@@ -30,7 +33,7 @@ redirect_from:
   * Featured in several third-party publications (cf. the [citing papers](https://scholar.google.de/scholar?oi=bibs&hl=de&authuser=1&cites=6148414860275726732&as_sdt=5))
   * Honored with a Best Research Demo Award (see below)
   
-* Since 2016: Researcher and Ph.D. student at University of Bremen
+* 2016--2021: Researcher and Ph.D. student at University of Bremen
   * Physical design of post-CMOS Emerging Nanotechnologies
   * Verification of CRAM plans for PR2 robots at the collaborative research center EASE
   * Teaching undergraduate courses and supervising Bachelor's and Master's theses
