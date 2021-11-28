@@ -72,7 +72,7 @@ redirect_from:
 
 * DAC 2020 Young Student Fellow Program Scholarship (cf. the respective [certificate of appreciation](https://marcelwa.github.io/files/2020_DAC_YFP_CoA.pdf))
 
-* ISVLSI 2020 Best Student Forum Paper Award: **"Design Automation for Field-coupeld Nanotechnologies"** (cf. the [award certificate](https://marcelwa.github.io/files/2020_ISVLSI_SRF_Award.pdf) and the respective [paper](https://marcelwa.github.io/files/2020_004.pdf))
+* ISVLSI 2020 Best Student Forum Paper Award: **"Design Automation for Field-coupeld Nanotechnologies"** (cf. the [award certificate](https://marcelwa.github.io/files/2020_ISVLSI_SRF_Award.pdf), the respective [paper](https://marcelwa.github.io/files/2020_004.pdf), and a [press release](https://www.uni-bremen.de/fb3/der-fachbereich/news-detailansicht/auszeichnung-fuer-dissertation-ueber-nanotechnologie) in German)
 
 * ISVLSI 2020 Best Paper Award Candidate: **"Bail on Balancing: An Alternative Approach to the Physical Design of Field-coupled Nanocomputing Circuits"** (cf. the respective [paper](https://marcelwa.github.io/files/2020_003.pdf))
 
