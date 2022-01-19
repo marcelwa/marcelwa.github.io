@@ -123,6 +123,7 @@ redirect_from:
   * IEEE Transactions on Nanotechnology (TNANO)
   * IEEE Transactions on Circuits and Systems (TCAS)
   * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
+  * ACM Transactions on Design Automation of Electronic Systems (TODAES)
   * Journal of Computational Electronics (JCEL)
   * European Test Symposium (ETS)
   * ACM Great Lakes Symposium on VLSI (GLSVLSI)
