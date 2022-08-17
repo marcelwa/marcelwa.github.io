@@ -136,6 +136,7 @@ redirect_from:
   * IEEE International Symposium on Embedded Computing and System Design (ISED)
   * International Workshop on Logic and Synthesis (IWLS)
   * Mathematics
+  * The European Physical Journal Plus (EPJ Plus)
   * Integration - The VLSI Journal
   * IEEE Embedded Systems Letters (ESL)
 * Executive team for international conferences
