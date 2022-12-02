@@ -95,7 +95,7 @@ redirect_from:
 * Languages
   * German: mother tongue
   * English: fluent
-  * Dutch: notions
+  * Dutch: B2
 * Programming
   * C/C++
   * Python
@@ -106,6 +106,7 @@ redirect_from:
 * Reserach interests
   * Field-coupled Nanocomputing
   * Quantum Computing
+  * Cryogenic CMOS
   * Physical Design
   * Algorithms
   * Logic Design
