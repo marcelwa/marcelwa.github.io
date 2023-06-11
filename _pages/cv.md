@@ -66,6 +66,8 @@ redirect_from:
 
 ## Honors and Awards
 
+* IWLS 2023 Best Paper Award Candidate: **"Technology Mapping for Beyond-CMOS Circuitry with Unconventional Cost Functions"** (cf. the conference website's [excerpt](https://marcelwa.github.io/files/2023_IWLS_Best_Paper_Candidate.png)
+
 * ASP-DAC 2021 Best Paper Award Candidate: **"One-pass Synthesis for Field-coupled Nanocomputing Technologies"** (cf. the conference website's [excerpt](https://marcelwa.github.io/files/2021_ASP-DAC_Best_Paper_Candidate.png) and the respective [paper](https://marcelwa.github.io/files/2021_001.pdf))
 
 * DAC 2020 Best Young Student Fellow Research Video Award: **"Time Multiplexing Via Circuit Folding"** (cf. the [issued reward](https://marcelwa.github.io/files/2020_DAC_YFP_Research_Video_Award.jpg) and the respective [video](https://drive.google.com/file/d/1W9rxeAM0fTMGeCDA4AEnpbKBZnImbbyI/view?usp=sharing))
@@ -99,6 +101,7 @@ redirect_from:
 * Programming
   * C/C++
   * Python
+  * Rust
   * Java
   * Bash
   * Git
@@ -108,8 +111,9 @@ redirect_from:
   * Quantum Computing
   * Cryogenic CMOS
   * Physical Design
+  * Placement & Routing
   * Algorithms
-  * Logic Design
+  * Logic Synthesis and Optimization
   * Satisfiability Solving
   * Graph and Complexity Theory
 
@@ -143,3 +147,6 @@ redirect_from:
 * Executive team for international conferences
   * Technical Operator at International Conference On Computer Aided Design (ICCAD) 2020
   * Staff member at European Test Symposium (ETS) 2018
+* Community services
+  * Host of an expert/mentor session at the Hack4Her Women in Tech event 2023 in Amsterdam, Netherlands
+  * Jury member at the Hack4Her Hackathon 2022 in Amsterdam, Netherlands
