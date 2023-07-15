@@ -145,6 +145,7 @@ redirect_from:
   * Integration - The VLSI Journal
   * IEEE Embedded Systems Letters (ESL)
 * Executive team for international conferences
+  * Technical Program Committee Member at International Conference on Computer-Aided Design (ICCAD) 2023
   * Technical Operator at International Conference On Computer Aided Design (ICCAD) 2020
   * Staff member at European Test Symposium (ETS) 2018
 * Community services
