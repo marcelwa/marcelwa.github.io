@@ -120,34 +120,35 @@ redirect_from:
 ## Professional Service
 
 * Reviewer for international conferences and journals (verified on [my publons profile](https://publons.com/researcher/4379393/marcel-walter/peer-review/) where applicable) including
-  * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-  * Design Automation Conference (DAC)
-  * International Conference On Computer Aided Design (ICCAD)
-  * Design, Automation and Test in Europe (DATE)
-  * ACM Journal on Emerging Technologies in Computing (JETC)
-  * IEEE Transactions on Nanotechnology (TNANO)
-  * IEEE Transactions on Circuits and Systems (TCAS)
-  * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
-  * ACM Transactions on Design Automation of Electronic Systems (TODAES)
-  * Journal of Computational Electronics (JCEL)
-  * European Test Symposium (ETS)
-  * ACM Great Lakes Symposium on VLSI (GLSVLSI)
-  * Euromicro Conference on Digital System Design (DSD)
-  * Microprocessors and Microsystems: Embedded Hardware Design (MICPRO)
-  * Journal on Analog Integrated Circuits and Signal Processing (ALOG)
-  * International Conference on VLSI Design (VLSID)
-  * IEEE Design & Test (D&T)
-  * IEEE International Symposium on Multiple-Valued Logic (ISMVL)
-  * IEEE International Symposium on Embedded Computing and System Design (ISED)
-  * International Workshop on Logic and Synthesis (IWLS)
-  * Mathematics
-  * The European Physical Journal Plus (EPJ Plus)
-  * Integration - The VLSI Journal
-  * IEEE Embedded Systems Letters (ESL)
+  * *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (TCAD)
+  * *Design Automation Conference* (DAC)
+  * *International Conference On Computer Aided Design* (ICCAD)
+  * *Design, Automation and Test in Europe* (DATE)
+  * *ACM Journal on Emerging Technologies in Computing* (JETC)
+  * *IEEE Transactions on Nanotechnology* (TNANO)
+  * *IEEE Transactions on Circuits and Systems* (TCAS)
+  * *IEEE Transactions on Very Large Scale Integration Systems* (TVLSI)
+  * *ACM Transactions on Design Automation of Electronic Systems* (TODAES)
+  * *Journal of Computational Electronics* (JCEL)
+  * *European Test Symposium* (ETS)
+  * *ACM Great Lakes Symposium on VLSI* (GLSVLSI)
+  * *Euromicro Conference on Digital System Design* (DSD)
+  * *Microprocessors and Microsystems: Embedded Hardware Design* (MICPRO)
+  * *Journal on Analog Integrated Circuits and Signal Processing* (ALOG)
+  * *International Conference on VLSI Design* (VLSID)
+  * *IEEE Design & Test* (D&T)
+  * *IEEE International Symposium on Multiple-Valued Logic* (ISMVL)
+  * *IEEE International Symposium on Embedded Computing and System Design* (ISED)
+  * *International Workshop on Logic and Synthesis* (IWLS)
+  * *Mathematics*
+  * *The European Physical Journal Plus* (EPJ Plus)
+  * *Integration - The VLSI Journal*
+  * *IEEE Embedded Systems Letters* (ESL)
 * Executive team for international conferences
-  * Technical Program Committee Member at International Conference on Computer-Aided Design (ICCAD) 2023
-  * Technical Operator at International Conference On Computer Aided Design (ICCAD) 2020
-  * Staff member at European Test Symposium (ETS) 2018
+  * Technical Program Committee Member at the *International Conference on Computer-Aided Design* (ICCAD) 2023
+  * Chair for the *Verification* session at the *International Workshop on Logic and Synthesis* (IWLS) 2023
+  * Technical Operator at the *International Conference On Computer-Aided Design* (ICCAD) 2020
+  * Staff member at the *European Test Symposium* (ETS) 2018
 * Community services
-  * Host of an expert/mentor session at the Hack4Her Women in Tech event 2023 in Amsterdam, Netherlands
-  * Jury member at the Hack4Her Hackathon 2022 in Amsterdam, Netherlands
+  * Host of an expert/mentor session at the *Hack4Her Technology Retreat* 2023 in Amsterdam, Netherlands
+  * Jury member at the *Hack4Her Hackathon* 2022 in Amsterdam, Netherlands
