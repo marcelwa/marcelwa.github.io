@@ -105,7 +105,7 @@ redirect_from:
   * Java
   * Bash
   * Git
-  * Continuous Integration
+  * CI/CD
 * Reserach interests
   * Field-coupled Nanocomputing
   * Quantum Computing
@@ -145,7 +145,7 @@ redirect_from:
   * *Integration - The VLSI Journal*
   * *IEEE Embedded Systems Letters* (ESL)
 * Executive team for international conferences
-  * Technical Program Committee Member at the *International Conference on Computer-Aided Design* (ICCAD) 2023
+  * Technical Program Committee Member at the *International Conference on Computer-Aided Design* (ICCAD) 2023 (cf. the [certificate of appreciation](https://marcelwa.github.io/files/ICCAD_2023_CoA_TPC.pdf))
   * Chair for the *Verification* session at the *International Workshop on Logic and Synthesis* (IWLS) 2023
   * Technical Operator at the *International Conference On Computer-Aided Design* (ICCAD) 2020
   * Staff member at the *European Test Symposium* (ETS) 2018
