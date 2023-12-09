@@ -66,7 +66,7 @@ redirect_from:
 
 ## Honors and Awards
 
-* IWLS 2023 Best Paper Award Candidate: **"Technology Mapping for Beyond-CMOS Circuitry with Unconventional Cost Functions"** (cf. the conference website's [excerpt](https://marcelwa.github.io/files/2023_IWLS_Best_Paper_Candidate.png)
+* IWLS 2023 Best Paper Award Candidate: **"Technology Mapping for Beyond-CMOS Circuitry with Unconventional Cost Functions"** (cf. the conference website's [excerpt](https://marcelwa.github.io/files/2023_IWLS_Best_Paper_Candidate.png))
 
 * ASP-DAC 2021 Best Paper Award Candidate: **"One-pass Synthesis for Field-coupled Nanocomputing Technologies"** (cf. the conference website's [excerpt](https://marcelwa.github.io/files/2021_ASP-DAC_Best_Paper_Candidate.png) and the respective [paper](https://marcelwa.github.io/files/2021_001.pdf))
 
