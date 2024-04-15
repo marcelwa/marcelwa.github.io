@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Marcel Walter"
   avatar           : "profile.png"
-  bio              : "Ph.D. in Computer Science"
-  location         : "Munich, Germany"
-  employer         : "Technical University of Munich"
+  bio              : "Professor of Computer Science"
+  location         : "Bremen/Munich, Germany"
+  employer         : "University of Bremen/Technical University of Munich"
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=8wD80wMAAAAJ&hl=en"
   email            : "marcel.walter@tum.de"
