@@ -21,6 +21,8 @@ redirect_from:
 
 ## Work Experience
 
+* Since 2024: Visiting Professor at the University of Bremen
+
 * Since 2021: Postdoctoral Researcher at the Technical University of Munich (TUM)
   * Design Automation for post-CMOS Emerging Nanotechnologies
 
@@ -110,10 +112,10 @@ redirect_from:
   * Field-coupled Nanocomputing
   * Quantum Computing
   * Cryogenic CMOS
+  * Logic Synthesis and Optimization
   * Physical Design
   * Placement & Routing
   * Algorithms
-  * Logic Synthesis and Optimization
   * Satisfiability Solving
   * Graph and Complexity Theory
 
