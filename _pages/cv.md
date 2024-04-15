@@ -21,7 +21,7 @@ redirect_from:
 
 ## Work Experience
 
-* Since 2024: Visiting Professor at the University of Bremen
+* Since 2024: Visiting Professor (Vertretungsprofessor) at the University of Bremen
 
 * Since 2021: Postdoctoral Researcher at the Technical University of Munich (TUM)
   * Design Automation for post-CMOS Emerging Nanotechnologies
