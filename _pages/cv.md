@@ -41,9 +41,6 @@ redirect_from:
   * Teaching undergraduate courses and supervising Bachelor's and Master's theses
   * Supervisor: Prof. Dr. Rolf Drechsler, _Research Group of Computer Architecture_
 
-* 2016: Bremen Big Data Challenge
-  * Applied machine learning on _League of Legends_ statistics to predict winning teams
-
 * 2015--2016: Independent Study at University of Bremen
   * Reactive system synthesis from LTL specifications using Satisfiability Modulo Theories (SMT)
   * Supervisor: Prof. Dr. Rüdiger Ehlers, _Modelling of Technical Systems Research Group_
@@ -59,6 +56,16 @@ redirect_from:
   * Technical Computer Science 1
     * Computer architecture and embedded systems, Boolean Algebra, logic synthesis
     * Supervisor: Prof. Dr. Rolf Drechsler, _Research Group of Computer Architecture_
+
+
+## Challenges and Contests
+
+* 2024: IWLS Programming Contests
+  * Optimal synthesis of AIGs and XAIGs from truth table specifications
+
+* 2016: Bremen Big Data Challenge
+  * Applied machine learning on _League of Legends_ statistics to predict winning teams
+
 
 ## Conference and Journal Publications
 
