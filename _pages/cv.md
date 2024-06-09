@@ -147,11 +147,13 @@ redirect_from:
   * *Integration - The VLSI Journal*
   * *IEEE Embedded Systems Letters* (ESL)
 * Executive team for international conferences
-  * Proceedings Chair in the Organizing Committee of the *International Workshop on Logic and Synthesis* (IWLS) 2024
+  * Proceedings Chair in the Organizing Committee and jury member for the Best Student Paper Award at the [*International Workshop on Logic and Synthesis* (IWLS) 2024](https://www.iwls.org/iwls2024/)
+  * Chair for the [*Machine Learning for Synthesis* session](https://www.iwls.org/iwls2024/program.php) at the *International Workshop on Logic and Synthesis* (IWLS) 2024
   * Technical Program Committee Member of the *International Conference on Computer-Aided Design* (ICCAD) 2023 (cf. the [certificate of appreciation](https://marcelwa.github.io/files/ICCAD_2023_CoA_TPC.pdf))
-  * Chair for the *Verification* session at the *International Workshop on Logic and Synthesis* (IWLS) 2023
+  * Chair for the [*Verification* session](https://www.iwls.org/iwls2023/program.php) at the *International Workshop on Logic and Synthesis* (IWLS) 2023
   * Technical Operator at the *International Conference On Computer-Aided Design* (ICCAD) 2020
   * Staff member at the *European Test Symposium* (ETS) 2018
 * Community services
+  * Host of an expert/mentor session at the [3rd Annual *Hack4Her* Event](https://hack4her.github.io/2024_experts.html) 2024 in Amsterdam, Netherlands
   * Host of an expert/mentor session at the *Hack4Her Technology Retreat* 2023 in Amsterdam, Netherlands
   * Jury member at the *Hack4Her Hackathon* 2022 in Amsterdam, Netherlands
