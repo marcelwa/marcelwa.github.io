@@ -22,12 +22,10 @@ redirect_from:
 ## Work Experience
 
 * Since 2024: Visiting Professor (Vertretungsprofessor) at the University of Bremen
+  * Teaching graduate courses (cf. [teaching experience](https://marcelwa.github.io/teaching/))
 
 * Since 2021: Postdoctoral Researcher at the Technical University of Munich (TUM)
   * Design Automation for post-CMOS Emerging Nanotechnologies
-
-* 2020: High Level Synthesis Tutorial by _Cadence_ @ DAC 2020
-  * Logic synthesis of a Convolutional Neural Network that serves as an AI Accelerator for Image Recognition (cf. the [issued badge](https://www.credly.com/badges/2533bfee-654b-4a28-9ef9-d44b68903ea5))
   
 * Since 2018: Initiator and maintainer of the [_fiction_ framework](https://github.com/marcelwa/fiction)
   * Design Automation of Field-coupled Nanotechnologies (cf. the [tool paper](https://arxiv.org/pdf/1905.02477.pdf))
@@ -38,7 +36,7 @@ redirect_from:
 * 2016--2021: Researcher and Ph.D. student at University of Bremen
   * Physical design of post-CMOS Emerging Nanotechnologies
   * Verification of CRAM plans for PR2 robots at the collaborative research center EASE
-  * Teaching undergraduate courses and supervising Bachelor's and Master's theses
+  * Teaching undergraduate courses (cf. [teaching experience](https://marcelwa.github.io/teaching/)) and supervising Bachelor's and Master's theses
   * Supervisor: Prof. Dr. Rolf Drechsler, _Research Group of Computer Architecture_
 
 * 2015--2016: Independent Study at University of Bremen
@@ -58,10 +56,13 @@ redirect_from:
     * Supervisor: Prof. Dr. Rolf Drechsler, _Research Group of Computer Architecture_
 
 
-## Challenges and Contests
+## Challenges, Tutorials, and Contests
 
 * 2024: IWLS Programming Contests
   * Optimal synthesis of AIGs and XAIGs from truth table specifications
+
+* 2020: High Level Synthesis Tutorial by _Cadence_ @ DAC 2020
+  * Logic synthesis of a Convolutional Neural Network that serves as an AI Accelerator for Image Recognition (cf. the [issued badge](https://www.credly.com/badges/2533bfee-654b-4a28-9ef9-d44b68903ea5))
 
 * 2016: Bremen Big Data Challenge
   * Applied machine learning on _League of Legends_ statistics to predict winning teams
@@ -74,6 +75,8 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Honors and Awards
+
+* IEEE NANO 2024 Best Presentation Award: **"Technology Mapping for Beyond-CMOS Circuitry with Unconventional Cost Functions"**
 
 * IWLS 2023 Best Paper Award Candidate: **"Technology Mapping for Beyond-CMOS Circuitry with Unconventional Cost Functions"** (cf. the conference website's [excerpt](https://marcelwa.github.io/files/2023_IWLS_Best_Paper_Candidate.png))
 
