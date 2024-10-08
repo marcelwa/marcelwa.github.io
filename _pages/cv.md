@@ -21,11 +21,11 @@ redirect_from:
 
 ## Work Experience
 
-* Since 2024: Visiting Professor (Vertretungsprofessor) at the University of Bremen
-  * Teaching graduate courses (cf. [teaching experience](https://marcelwa.github.io/teaching/))
-
 * Since 2021: Postdoctoral Researcher at the Technical University of Munich (TUM)
   * Design Automation for post-CMOS Emerging Nanotechnologies
+
+* 2024: Visiting Professor (Vertretungsprofessor) at the University of Bremen
+  * Teaching graduate courses (cf. [teaching experience](https://marcelwa.github.io/teaching/))
   
 * Since 2018: Initiator and maintainer of the [_fiction_ framework](https://github.com/marcelwa/fiction)
   * Design Automation of Field-coupled Nanotechnologies (cf. the [tool paper](https://arxiv.org/pdf/1905.02477.pdf))
