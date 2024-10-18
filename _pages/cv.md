@@ -142,21 +142,23 @@ redirect_from:
   * *IEEE Transactions on Very Large Scale Integration Systems* (TVLSI)
   * *ACM Transactions on Design Automation of Electronic Systems* (TODAES)
   * *Journal of Computational Electronics* (JCEL)
-  * *European Test Symposium* (ETS)
+  * *International Workshop on Logic and Synthesis* (IWLS)
   * *ACM Great Lakes Symposium on VLSI* (GLSVLSI)
   * *Euromicro Conference on Digital System Design* (DSD)
   * *Microprocessors and Microsystems: Embedded Hardware Design* (MICPRO)
   * *Journal on Analog Integrated Circuits and Signal Processing* (ALOG)
   * *International Conference on VLSI Design* (VLSID)
+  * *European Test Symposium* (ETS)
   * *IEEE Design & Test* (D&T)
   * *IEEE International Symposium on Multiple-Valued Logic* (ISMVL)
   * *IEEE International Symposium on Embedded Computing and System Design* (ISED)
-  * *International Workshop on Logic and Synthesis* (IWLS)
+  * *IEEE CASS Latin American Symposium on Circuits and Systems* (LASCAS)
   * *Mathematics*
   * *The European Physical Journal Plus* (EPJ Plus)
   * *Integration - The VLSI Journal*
   * *IEEE Embedded Systems Letters* (ESL)
 * Executive team for international conferences
+  * Track Co-Chair for the *Technology (Devices, Nano-electronic), Design Automation, Test, Fault Tolerance, and Reliability* track at the [*IEEE CASS Latin American Symposium on Circuits and Systems* (LASCAS) 2025](https://www.ufrgs.br/lascas/index.php)
   * Proceedings Chair in the Organizing Committee and jury member for the Best Student Paper Award at the [*International Workshop on Logic and Synthesis* (IWLS) 2024](https://www.iwls.org/iwls2024/)
   * Chair for the [*Machine Learning for Synthesis* session](https://www.iwls.org/iwls2024/program.php) at the *International Workshop on Logic and Synthesis* (IWLS) 2024
   * Technical Program Committee Member of the *International Conference on Computer-Aided Design* (ICCAD) 2023 (cf. the [certificate of appreciation](https://marcelwa.github.io/files/ICCAD_2023_CoA_TPC.pdf))
