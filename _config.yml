@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Marcel Walter"
   avatar           : "profile.jpeg"
-  bio              : "Postdoc | Design Automation for Nanotechnology"
+  bio              : "Senior Quantum Software Engineer / Postdoc"
   location         : "Munich, Germany"
-  employer         : "Technical University of Munich (TUM)"
+  employer         : "MQSC / TUM"
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=8wD80wMAAAAJ&hl=en"
   email            : "marcel.walter@tum.de"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : marcel-walter-94b573195/
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
