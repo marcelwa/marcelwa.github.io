@@ -171,3 +171,4 @@ redirect_from:
   * Host of an expert/mentor session at the [3rd Annual *Hack4Her* Event](https://hack4her.github.io/2024_experts.html) 2024 in Amsterdam, Netherlands
   * Host of an expert/mentor session at the *Hack4Her Technology Retreat* 2023 in Amsterdam, Netherlands
   * Jury member at the *Hack4Her Hackathon* 2022 in Amsterdam, Netherlands
+  * Student mentor at the Gymnasium Syke, Germany, since 2013
