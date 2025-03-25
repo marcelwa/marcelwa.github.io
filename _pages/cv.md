@@ -24,7 +24,7 @@ redirect_from:
 * Since 2021: Postdoctoral Researcher at the Technical University of Munich (TUM)
   * Design Automation for post-CMOS Emerging Nanotechnologies
 
-* 2024: Visiting Professor (Vertretungsprofessor) at the University of Bremen
+* 2024: Substitute Professor at the University of Bremen
   * Teaching graduate courses (cf. [teaching experience](https://marcelwa.github.io/teaching/))
   
 * Since 2018: Initiator and maintainer of the [_fiction_ framework](https://github.com/marcelwa/fiction)
@@ -75,6 +75,8 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Honors and Awards
+
+* LASCAS 2025 Best Paper Award Candidate: **"Physical Design for Field-coupled Nanocomputing with Discretionary Cost Objectives"** (cf. the conference program's [excerpt](https://marcelwa.github.io/files/2025_LASCAS_Best_Paper_Candidate.jpg))
 
 * IEEE NANO 2024 Best Presentation Award: **"Technology Mapping for Beyond-CMOS Circuitry with Unconventional Cost Functions"** (cf. the [award certificate](https://marcelwa.github.io/files/2024_IEEE_NANO_Best_Presentation_Award.pdf))
 
