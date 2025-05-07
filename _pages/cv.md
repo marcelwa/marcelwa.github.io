@@ -15,23 +15,21 @@ redirect_from:
   * Thesis: _Design Automation for Field-coupled Nanotechnologies_
 * M.Sc. in Computer Science, University of Bremen, 2016
   * Specialization in _Safety, Security, and Quality_
-  * Thesis: _Exact Synthesis of Abstraction-level Independent Logic Networks_
+  * Thesis: _Exact Synthesis of Abstraction-Level-Independent Logic Networks_
 * B.Sc. in Computer Science, University of Bremen, 2015
   * Thesis: _Optimization of Quantum Circuits for Linear Nearest Neighbor Architectures_
 
 ## Work Experience
 
+* Since 2025: Senior Quantum Software Engineer at the Munich Quantum Software Company (MQSC)
+  * Industrial-strength software for quantum computers
+
 * Since 2021: Postdoctoral Researcher at the Technical University of Munich (TUM)
   * Design Automation for post-CMOS Emerging Nanotechnologies
+  * Logic Synthesis & Physical Design
 
 * 2024: Substitute Professor at the University of Bremen
   * Teaching graduate courses (cf. [teaching experience](https://marcelwa.github.io/teaching/))
-  
-* Since 2018: Initiator and maintainer of the [_fiction_ framework](https://github.com/marcelwa/fiction)
-  * Design Automation of Field-coupled Nanotechnologies (cf. the [tool paper](https://arxiv.org/pdf/1905.02477.pdf))
-  * Open-source project for researchers and developers
-  * Featured in several third-party publications (cf. the [citing papers](https://scholar.google.de/scholar?oi=bibs&hl=de&authuser=1&cites=6148414860275726732&as_sdt=5))
-  * Honored with a Best Research Demo Award (see below)
   
 * 2016--2021: Researcher and Ph.D. student at University of Bremen
   * Physical design of post-CMOS Emerging Nanotechnologies
@@ -54,6 +52,21 @@ redirect_from:
   * Technical Computer Science 1
     * Computer architecture and embedded systems, Boolean Algebra, logic synthesis
     * Supervisor: Prof. Dr. Rolf Drechsler, _Research Group of Computer Architecture_
+
+    
+## Open-Source Repositories (selection)
+
+* Since 2024: Initiator and maintainer of the [_aigverse_ library](https://github.com/marcelwa/aigverse)
+  * A Python library for working with logic networks, synthesis, and optimization
+  * High-performance C++ backend
+  * Interoperability with other logic synthesis tools
+  * Convenient integration with popular data science and machine learning libraries
+
+* Since 2018: Initiator and maintainer of the [_fiction_ framework](https://github.com/cda-tum/fiction)
+  * Design Automation of Field-coupled Nanotechnologies (cf. the [tool paper](https://arxiv.org/pdf/1905.02477.pdf))
+  * Open-source project for researchers and developers
+  * Featured in several third-party publications (cf. the [citing papers](https://scholar.google.de/scholar?oi=bibs&hl=de&authuser=1&cites=6148414860275726732&as_sdt=5))
+  * Honored with a Best Research Demo Award (see below)
 
 
 ## Challenges, Tutorials, and Contests
