@@ -27,6 +27,8 @@ redirect_from:
 * Since 2021: Postdoctoral Researcher at the Technical University of Munich (TUM)
   * Design Automation for post-CMOS Emerging Nanotechnologies
   * Logic Synthesis & Physical Design
+  * Teaching undergraduate and graduate courses (cf. [teaching experience](https://marcelwa.github.io/teaching/))
+  * Supervisor: Prof. Dr. Robert Wille, _Chair for Design Automation_
 
 * 2024: Substitute Professor at the University of Bremen
   * Teaching graduate courses (cf. [teaching experience](https://marcelwa.github.io/teaching/))
