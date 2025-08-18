@@ -91,13 +91,13 @@ redirect_from:
 
 ## Honors and Awards
 
-* IEEE NANO 2025 Best Student Paper Award: **"Building a Machine Learning Accelerator with Silicon Dangling Bonds: From Verilog to Quantum Dot Layout"** (cf. conference website's [excerpt](https://marcelwa.github.io/files/2025_IEEE_NANO_Best_Student_Paper_Award.png) and the respective [paper](https://marcelwa.github.io/publication/2025_007))
+* IEEE NANO 2025 Best Student Paper Award: **"Building a Machine Learning Accelerator with Silicon Dangling Bonds: From Verilog to Quantum Dot Layout"** (cf. conference website's [excerpt](https://marcelwa.github.io/files/2025_IEEE_NANO_Best_Student_Paper_Award.png) and the respective [paper](https://marcelwa.github.io/files/2025_007.pdf))
 
-* LASCAS 2025 Best Paper Award Candidate: **"Physical Design for Field-coupled Nanocomputing with Discretionary Cost Objectives"** (cf. the conference program's [excerpt](https://marcelwa.github.io/files/2025_LASCAS_Best_Paper_Candidate.jpg))
+* LASCAS 2025 Best Paper Award Candidate: **"Physical Design for Field-coupled Nanocomputing with Discretionary Cost Objectives"** (cf. the conference program's [excerpt](https://marcelwa.github.io/files/2025_LASCAS_Best_Paper_Candidate.jpg) and the respective [paper](https://marcelwa.github.io/files/2025_001.pdf))
 
-* IEEE NANO 2024 Best Presentation Award: **"Technology Mapping for Beyond-CMOS Circuitry with Unconventional Cost Functions"** (cf. the [award certificate](https://marcelwa.github.io/files/2024_IEEE_NANO_Best_Presentation_Award.pdf))
+* IEEE NANO 2024 Best Presentation Award: **"Technology Mapping for Beyond-CMOS Circuitry with Unconventional Cost Functions"** (cf. the [award certificate](https://marcelwa.github.io/files/2024_IEEE_NANO_Best_Presentation_Award.pdf) and the respective [paper](https://marcelwa.github.io/files/2024_008.pdf))
 
-* IWLS 2023 Best Paper Award Candidate: **"Technology Mapping for Beyond-CMOS Circuitry with Unconventional Cost Functions"** (cf. the conference website's [excerpt](https://marcelwa.github.io/files/2023_IWLS_Best_Paper_Candidate.png))
+* IWLS 2023 Best Paper Award Candidate: **"Technology Mapping for Beyond-CMOS Circuitry with Unconventional Cost Functions"** (cf. the conference website's [excerpt](https://marcelwa.github.io/files/2023_IWLS_Best_Paper_Candidate.png) and the respective [paper](https://marcelwa.github.io/files/2024_008.pdf) (later published at IEEE NANO 2024))
 
 * ASP-DAC 2021 Best Paper Award Candidate: **"One-pass Synthesis for Field-coupled Nanocomputing Technologies"** (cf. the conference website's [excerpt](https://marcelwa.github.io/files/2021_ASP-DAC_Best_Paper_Candidate.png) and the respective [paper](https://marcelwa.github.io/files/2021_001.pdf))
 
