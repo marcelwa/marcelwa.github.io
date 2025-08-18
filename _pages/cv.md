@@ -91,6 +91,8 @@ redirect_from:
 
 ## Honors and Awards
 
+* IEEE NANO 2025 Best Student Paper Award: **"Building a Machine Learning Accelerator with Silicon Dangling Bonds: From Verilog to Quantum Dot Layout"** (cf. conference website's [excerpt](https://marcelwa.github.io/files/2025_IEEE_NANO_Best_Student_Paper_Award.png) and the respective [paper](https://marcelwa.github.io/publication/2025_007))
+
 * LASCAS 2025 Best Paper Award Candidate: **"Physical Design for Field-coupled Nanocomputing with Discretionary Cost Objectives"** (cf. the conference program's [excerpt](https://marcelwa.github.io/files/2025_LASCAS_Best_Paper_Candidate.jpg))
 
 * IEEE NANO 2024 Best Presentation Award: **"Technology Mapping for Beyond-CMOS Circuitry with Unconventional Cost Functions"** (cf. the [award certificate](https://marcelwa.github.io/files/2024_IEEE_NANO_Best_Presentation_Award.pdf))
