@@ -25,6 +25,7 @@ redirect_from:
 
 * Since 2025: Senior Quantum Software Engineer at the Munich Quantum Software Company (MQSC)
   * Industrial-strength software for quantum computers
+  * HPCQC integration
 
 * Since 2021: Postdoctoral Researcher at the Technical University of Munich (TUM)
   * Design Automation for post-CMOS Emerging Nanotechnologies
