@@ -131,6 +131,34 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
 
+## Supervision and Mentoring
+
+### Ph.D. Candidates
+
+* **Dr. Jan Drewniok** (Technical University of Munich, 2026, _summa cum laude_)
+  * Thesis: _Design and Simulation of Atomic-Scale Computing: A Comprehensive Framework for Physical Simulation, Logic Design, Logic Analysis, and Circuit Design_
+  * **Honors and Awards:**
+    * IEEE Nanotechnology Council (NTC) 2026 Best PhD Thesis Award
+    * DATE 2025 Best Poster Award at the PhD Forum
+    * IEEE NANO 2024 Student Design Competition Winner: **"NanoLogic: An Educational App for Atomic-Scale Computing"**
+
+* **Dr. Simon Hofmann** (Technical University of Munich, 2026, _summa cum laude_)
+  * Thesis: _Physical Design for Field-coupled Nanocomputing_
+  * **Honors and Awards:**
+    * LASCAS 2025 Best Paper Award Candidate: **"Physical Design for Field-coupled Nanocomputing with Discretionary Cost Objectives"**
+
+### Bachelor's and Master's Theses (selection)
+
+* **Michael Feldmeier** (M.Sc., Technical University of Munich, 2025): _Exploring Feedback-Guided AIG Optimization to Align Logic Synthesis with Mapping Objectives_
+* **Danilo Quinci** (M.Sc., Politecnico di Torino, 2025): _Design of standard cell libraries for molecular field-coupled nanocomputing design automation_
+* **Felix Kiefhaber** (B.Sc., Technical University of Munich, 2025): _Super-Tile Routing for Omnidirectional Information Flow in Silicon Dangling Bond Logic_
+* **Willem Lambooy** (M.Sc., Radboud Universiteit Nijmegen, 2024): _Hierarchically Bounded Composable Interactions: Applications and Extensions to Atom-Scale Logic Design_
+* **Benjamin Hien** (M.Sc., Technical University of Munich, 2023): _Signal Distribution Networks in Automatic QCA Standard-Cell Placement & Routing_
+* **Isabella Venancia Gardner** (B.Sc., Vrije Universiteit Amsterdam, 2023): _Machine Learning for Electrostatic Ground State Simulation of Silicon Dangling Bond Logic: Exploring the Impact of Custom Physical Feature Encodings in Transformer-based Models_
+* **Sophia Kuhn** (B.Sc., University of Bremen, 2021): _Design Understanding für Quantum-dot Cellular Automata Layouts_
+* **Daniel Staack** (B.Sc., University of Bremen, 2021): _Fehlerfindung in robotischen Plänen mittels Fuzzing_
+* **Till Schlechtweg** (B.Sc., University of Bremen, 2020): _Gate-level Placement für Field-coupled Nanocomputing unter Berücksichtigung von Clocking Constraints_
+
 ## Skills
 
 * Languages
