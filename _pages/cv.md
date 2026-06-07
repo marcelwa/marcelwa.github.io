@@ -76,6 +76,9 @@ redirect_from:
 
 ## Challenges, Tutorials, and Contests
 
+* 2026: ISPD Contest
+  * Post-Placement Buffering and Sizing
+
 * 2024: IWLS Programming Contests
   * Optimal synthesis of AIGs and XAIGs from truth table specifications
 
