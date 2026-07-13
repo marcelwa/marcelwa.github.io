@@ -213,8 +213,8 @@ redirect_from:
   * *Integration - The VLSI Journal*
   * *IEEE Embedded Systems Letters* (ESL)
 * Executive team for international conferences
-  * Judge for the Best Poster Award at the *IEEE International Conference on Nanotechnology* (IEEE NANO) 2026
   * Program Co-Chair and member of the Technical Program Committee (TPC) for the *International Workshop on Logic and Synthesis* (IWLS) 2027
+  * Judge for the Best Poster Award at the *IEEE International Conference on Nanotechnology* (IEEE NANO) 2026
   * Publicity Co-Chair and member of the Technical Program Committee (TPC) for the [*International Workshop on Logic and Synthesis* (IWLS) 2026](https://www.iwls.org/iwls2026/)
   * Chair for the [*Logic Synthesis for Specialized Targets* session](https://www.iwls.org/iwls2026/program.php) at the *International Workshop on Logic and Synthesis* (IWLS) 2026
   * Track Co-Chair for the *Technology (Devices, Nano-electronic), Design Automation, Test, Fault Tolerance, and Reliability* track at the [*IEEE CASS Latin American Symposium on Circuits and Systems* (LASCAS) 2025](https://www.ufrgs.br/lascas/index.php)
