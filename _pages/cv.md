@@ -191,28 +191,28 @@ redirect_from:
   * *Design Automation Conference* (DAC)
   * *International Conference On Computer Aided Design* (ICCAD)
   * *Design, Automation and Test in Europe* (DATE)
+  * *ACM Transactions on Design Automation of Electronic Systems* (TODAES)
   * *ACM Journal on Emerging Technologies in Computing* (JETC)
   * *IEEE Transactions on Emerging Topics in Computing* (TETC)
   * *IEEE Transactions on Nanotechnology* (TNANO)
   * *IEEE Transactions on Circuits and Systems* (TCAS)
   * *IEEE Transactions on Very Large Scale Integration Systems* (TVLSI)
-  * *ACM Transactions on Design Automation of Electronic Systems* (TODAES)
+  * *IEEE Design & Test* (D&T)
+  * *IEEE Embedded Systems Letters* (ESL)
   * *Journal of Computational Electronics* (JCEL)
   * *International Workshop on Logic and Synthesis* (IWLS)
   * *ACM Great Lakes Symposium on VLSI* (GLSVLSI)
   * *Euromicro Conference on Digital System Design* (DSD)
+  * *European Test Symposium* (ETS)
+  * *International Conference on VLSI Design* (VLSID)
+  * *Integration - The VLSI Journal*
   * *Microprocessors and Microsystems: Embedded Hardware Design* (MICPRO)
   * *Journal on Analog Integrated Circuits and Signal Processing* (ALOG)
-  * *International Conference on VLSI Design* (VLSID)
-  * *European Test Symposium* (ETS)
-  * *IEEE Design & Test* (D&T)
   * *IEEE International Symposium on Multiple-Valued Logic* (ISMVL)
   * *IEEE International Symposium on Embedded Computing and System Design* (ISED)
   * *IEEE CASS Latin American Symposium on Circuits and Systems* (LASCAS)
-  * *Mathematics*
   * *The European Physical Journal Plus* (EPJ Plus)
-  * *Integration - The VLSI Journal*
-  * *IEEE Embedded Systems Letters* (ESL)
+  * *Mathematics*
 * Executive team for international conferences
   * Program Co-Chair and member of the Technical Program Committee (TPC) for the *International Workshop on Logic and Synthesis* (IWLS) 2027
   * Judge for the Best Poster Award at the *IEEE International Conference on Nanotechnology* (IEEE NANO) 2026
