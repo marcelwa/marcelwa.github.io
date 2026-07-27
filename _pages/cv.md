@@ -61,48 +61,18 @@ redirect_from:
     * Computer architecture and embedded systems, Boolean Algebra, logic synthesis
     * Supervisor: Prof. Dr. Rolf Drechsler, _Research Group of Computer Architecture_
 
-    
-## Open-Source Repositories (selection)
+## Research Interests
 
-* Since 2024: Initiator and maintainer of the [_aigverse_ library](https://github.com/marcelwa/aigverse)
-  * A Python library for working with logic networks, synthesis, and optimization
-  * High-performance C++ backend
-  * Interoperability with other logic synthesis tools
-  * Convenient integration with popular data science and machine learning libraries
+* **Design Automation for Post-CMOS Nanotechnologies:** Field-coupled Nanocomputing (Quantum-dot Cellular Automata, Silicon Dangling Bonds) --- logic synthesis, physical design, placement & routing, verification, and physical simulation
+* **Quantum Computing:** software and hardware integration for quantum computers, including cryogenic CMOS control electronics and HPC-quantum computing (HPCQC) integration
+* **Emerging Substrates:** silicon photonics and superconducting quantum circuit design, extending the same design-automation methodology to new physical substrates
+* **Algorithmic Foundations:** exact and heuristic combinatorial optimization, SAT/SMT-based synthesis and verification, graph algorithms, and computational complexity theory
 
-* Since 2018: Initiator and maintainer of the [_fiction_ framework](https://github.com/cda-tum/fiction)
-  * Design Automation of Field-coupled Nanotechnologies (cf. the [tool paper](https://arxiv.org/pdf/1905.02477.pdf))
-  * Open-source project for researchers and developers
-  * Featured in several third-party publications (cf. the [citing papers](https://scholar.google.de/scholar?oi=bibs&hl=de&authuser=1&cites=6148414860275726732&as_sdt=5))
-  * Honored with a Best Research Demo Award (see below)
+## Languages
 
-* Since 2025: Contributor to [Munich Quantum Toolkit (MQT) Core](https://github.com/munich-quantum-toolkit/core)
-  * Core library underlying the Munich Quantum Toolkit's quantum computing tools
-
-* Since 2025: Contributor and co-maintainer of [QDMI-on-IQM](https://github.com/iqm-finland/QDMI-on-IQM)
-  * QDMI device interface integration for IQM quantum computing hardware, connecting quantum accelerators to HPC infrastructure
-
-
-## Challenges, Tutorials, and Contests
-
-* 2026: ISPD Contest
-  * Post-Placement Buffering and Sizing
-
-* 2024: IWLS Programming Contests
-  * Optimal synthesis of AIGs and XAIGs from truth table specifications
-
-* 2020: High Level Synthesis Tutorial by _Cadence_ @ DAC 2020
-  * Logic synthesis of a Convolutional Neural Network that serves as an AI Accelerator for Image Recognition (cf. the [issued badge](https://www.credly.com/badges/2533bfee-654b-4a28-9ef9-d44b68903ea5))
-
-* 2016: Bremen Big Data Challenge
-  * Applied machine learning on _League of Legends_ statistics to predict winning teams
-
-
-## Conference and Journal Publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* German (Native)
+* English (Fluent)
+* Dutch (B2)
 
 ## Honors and Awards
 
@@ -168,33 +138,28 @@ redirect_from:
 * **Daniel Staack** (B.Sc., University of Bremen, 2021): _Fehlerfindung in robotischen Plänen mittels Fuzzing_
 * **Till Schlechtweg** (B.Sc., University of Bremen, 2020): _Gate-level Placement für Field-coupled Nanocomputing unter Berücksichtigung von Clocking Constraints_
 
-## Skills
+## Open-Source Repositories (selection)
 
-* Languages
-  * German: mother tongue
-  * English: fluent
-  * Dutch: B2
-* Programming
-  * C/C++
-  * Python
-  * Rust
-  * Java
-  * Bash
-  * Git
-  * CI/CD
-* Research interests
-  * Field-coupled Nanocomputing
-  * Quantum Computing
-  * Silicon Photonics
-  * Superconducting Chip Design
-  * HPCQC Integration
-  * Cryogenic CMOS
-  * Logic Synthesis and Optimization
-  * Physical Design
-  * Placement & Routing
-  * Algorithms
-  * Satisfiability Solving
-  * Graph and Complexity Theory
+* Since 2024: Initiator and maintainer of the [_aigverse_ library](https://github.com/marcelwa/aigverse)
+  * A Python library for working with logic networks, synthesis, and optimization
+  * High-performance C++ backend
+  * Interoperability with other logic synthesis tools
+  * Convenient integration with popular data science and machine learning libraries
+
+* Since 2018: Initiator and maintainer of the [_fiction_ framework](https://github.com/cda-tum/fiction)
+  * Design Automation of Field-coupled Nanotechnologies (cf. the [tool paper](https://arxiv.org/pdf/1905.02477.pdf))
+  * Open-source project for researchers and developers
+  * Featured in several third-party publications (cf. the [citing papers](https://scholar.google.de/scholar?oi=bibs&hl=de&authuser=1&cites=6148414860275726732&as_sdt=5))
+  * Honored with a Best Research Demo Award (see above)
+
+* Since 2025: Contributor to [Munich Quantum Toolkit (MQT) Core](https://github.com/munich-quantum-toolkit/core)
+  * Foundational C++/Python library of the Munich Quantum Toolkit, providing the shared data structures and algorithms (compilation, simulation, verification) that the toolkit's other quantum-software components build on
+  * Contributing improvements and bug fixes as part of ongoing quantum software engineering work at MQSC
+
+* Since 2025: Contributor and co-maintainer of [QDMI-on-IQM](https://github.com/iqm-finland/QDMI-on-IQM)
+  * Implementation of the Quantum Device Management Interface (QDMI) for IQM's quantum computing hardware, the standard interface connecting HPC software stacks to quantum backends
+  * Enables the HPCQC integration case study demonstrated on real IQM hardware (cf. the [paper](https://marcelwa.github.io/files/2026_010.pdf))
+  * Co-maintain the repository: reviewing contributions and keeping the integration current with both QDMI and IQM's hardware interfaces
 
 ## Professional Service
 
@@ -244,3 +209,23 @@ redirect_from:
   * Host of an expert/mentor session at the *Hack4Her Technology Retreat* 2023 in Amsterdam, Netherlands
   * Jury member at the *Hack4Her Hackathon* 2022 in Amsterdam, Netherlands
   * Student mentor at the Gymnasium Syke, Germany, since 2013
+
+## Challenges, Tutorials, and Contests
+
+* 2026: ISPD Contest
+  * Post-Placement Buffering and Sizing
+
+* 2024: IWLS Programming Contests
+  * Optimal synthesis of AIGs and XAIGs from truth table specifications
+
+* 2020: High Level Synthesis Tutorial by _Cadence_ @ DAC 2020
+  * Logic synthesis of a Convolutional Neural Network that serves as an AI Accelerator for Image Recognition (cf. the [issued badge](https://www.credly.com/badges/2533bfee-654b-4a28-9ef9-d44b68903ea5))
+
+* 2016: Bremen Big Data Challenge
+  * Applied machine learning on _League of Legends_ statistics to predict winning teams
+
+## Conference and Journal Publications
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

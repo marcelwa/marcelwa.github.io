@@ -13,9 +13,10 @@ https://marcelwa.github.io.
 - `_publications/`, `_talks/`, `_teaching/` — Jekyll collections, one
   Markdown file per item (publication, invited talk, or teaching role).
   `publications.md`, `talks.html`, `teaching.html`, and `cv.md` all render
-  from these collections via `{% for post in site.<collection> reversed %}`
-  loops, so **adding an item to a collection updates every page that lists
-  it** — no need to hand-edit those pages separately.
+  from these collections via a Liquid for-loop over the collection
+  (reversed, i.e. newest first), so **adding an item to a collection
+  updates every page that lists it** — no need to hand-edit those pages
+  separately.
 - `_data/` — YAML data (`authors.yml`, `navigation.yml`, `ui-text.yml`) and
   Staticman comment storage.
 - `files/` — hosted PDFs (papers, award certificates) linked from
