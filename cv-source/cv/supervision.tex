@@ -1,0 +1,148 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Supervision \& Mentoring}
+
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsubsection{Ph.D. Candidates}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+% Both candidates are at the same institution, so they share a single
+% institution/location header row instead of repeating it per student.
+\begin{cventries}
+  \setlength\tabcolsep{0pt}
+  \setlength{\extrarowheight}{0pt}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
+    \entrytitlestyle{Technical University of Munich (TUM)} & \entrylocationstyle{Munich, Germany} \\
+  \end{tabular*}
+\end{cventries}
+
+% \cvsubentry's own conditional layout (position/description empty-checks)
+% breaks when the description contains a block environment like cvitems, so
+% the two rows are written out directly here instead of via that macro.
+% Styled like a normal \cventry's position/date + description rows (rather
+% than the smaller \cvsubentry style) so the students stay visually on par
+% with every other entry in the CV; only the repeated institution row is
+% dropped.
+\newcommand{\phdsubentry}[3]{%
+  \vspace{-0.5mm}
+  \setlength\tabcolsep{0pt}
+  \setlength{\extrarowheight}{0pt}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
+    \entrypositionstyle{#1} & \entrydatestyle{#2} \\
+    \multicolumn{2}{L{\textwidth}}{\descriptionstyle{#3}}
+  \end{tabular*}%
+}
+
+\begin{cvsubentries}
+
+%---------------------------------------------------------
+  \phdsubentry
+    {Jan Drewniok --- Ph.D. (\emph{summa cum laude})} % Student
+    {2026} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Thesis: Design and Simulation of Atomic-Scale Computing: A Comprehensive Framework for Physical Simulation, Logic Design, Logic Analysis, and Circuit Design}
+        \item {IEEE Nanotechnology Council (NTC) 2026 Best PhD Thesis Award}
+        \item {DATE 2025 Best Poster Award at the PhD Forum}
+        \item {IEEE NANO 2024 Student Design Competition Winner: \emph{NanoLogic: An Educational App for Atomic-Scale Computing}}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \phdsubentry
+    {Simon Hofmann --- Ph.D. (\emph{summa cum laude})} % Student
+    {2026} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Thesis: Physical Design for Field-coupled Nanocomputing}
+        \item {LASCAS 2025 Best Paper Award Candidate: \emph{Physical Design for Field-coupled Nanocomputing with Discretionary Cost Objectives}}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+\end{cvsubentries}
+
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsubsection{Bachelor's \& Master's Theses (Selection)}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvhonors}
+
+%---------------------------------------------------------
+  \cvhonor
+    {Michael Feldmeier (M.Sc.)} % Student
+    {Exploring Feedback-Guided AIG Optimization to Align Logic Synthesis with Mapping Objectives} % Thesis
+    {TUM} % Institution
+    {2025} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Danilo Quinci (M.Sc.)} % Student
+    {Design of Standard Cell Libraries for Molecular Field-coupled Nanocomputing Design Automation} % Thesis
+    {Polito} % Institution
+    {2025} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Felix Kiefhaber (B.Sc.)} % Student
+    {Super-Tile Routing for Omnidirectional Information Flow in Silicon Dangling Bond Logic} % Thesis
+    {TUM} % Institution
+    {2025} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Willem Lambooy (M.Sc.)} % Student
+    {Hierarchically Bounded Composable Interactions: Applications and Extensions to Atom-Scale Logic Design} % Thesis
+    {Radboud} % Institution
+    {2024} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Benjamin Hien (M.Sc.)} % Student
+    {Signal Distribution Networks in Automatic QCA Standard-Cell Placement \& Routing} % Thesis
+    {TUM} % Institution
+    {2023} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Isabella Venancia Gardner (B.Sc.)} % Student
+    {Machine Learning for Electrostatic Ground State Simulation of Silicon Dangling Bond Logic} % Thesis
+    {VU Amsterdam} % Institution
+    {2023} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Sophia Kuhn (B.Sc.)} % Student
+    {Design Understanding f\"ur Quantum-dot Cellular Automata Layouts} % Thesis
+    {Bremen} % Institution
+    {2021} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Daniel Staack (B.Sc.)} % Student
+    {Fehlerfindung in robotischen Pl\"anen mittels Fuzzing} % Thesis
+    {Bremen} % Institution
+    {2021} % Date(s)
+
+%---------------------------------------------------------
+  \cvhonor
+    {Till Schlechtweg (B.Sc.)} % Student
+    {Gate-level Placement f\"ur Field-coupled Nanocomputing unter Ber\"ucksichtigung von Clocking Constraints} % Thesis
+    {Bremen} % Institution
+    {2020} % Date(s)
+
+%---------------------------------------------------------
+\end{cvhonors}

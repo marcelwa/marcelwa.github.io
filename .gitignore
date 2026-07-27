@@ -1,3 +1,18 @@
 _site/
 
 .directory
+
+# LaTeX build artifacts (cv-source/ holds the LaTeX CV/publist sources;
+# only .tex/.cls/.bib sources and the final compiled PDFs are tracked)
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv

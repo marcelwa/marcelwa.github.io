@@ -1,0 +1,86 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for Publications List
+%
+% This template has been modified from:
+% https://github.com/posquit0/Awesome-CV
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+\colorlet{awesome}{awesome-red}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+%-------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%-------------------------------------------------------------------------------
+\usepackage[style=ieee, sorting=ydnt, backend=biber, maxnames=99, minnames=99, defernumbers=true]{biblatex}
+\addbibresource{bibliography.bib}
+
+% Bold the name of the author in the bibliography
+\newcommand{\makeauthorbold}[1]{%
+  \DeclareNameFormat{author}{%
+    \ifthenelse{\equal{\namepartfamily}{#1}}%
+    {\textbf{\ifblank{\namepartgiven}{}{\namepartgiven\space}\namepartfamily}}%
+    {\ifblank{\namepartgiven}{}{\namepartgiven\space}\namepartfamily}%
+    \ifthenelse{\value{listcount}<\value{liststop}}%
+    {\addcomma\space}%
+    {}%
+    \ifthenelse{\value{listcount}=\value{liststop}\AND\ifmorenames}%
+    {\addcomma\space\bibstring{andothers}}%
+    {}%
+  }%
+}
+\makeauthorbold{Walter}
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%-------------------------------------------------------------------------------
+\name{Marcel}{Walter}
+\position{Senior Quantum Software Engineer{\enskip\cdotp\enskip}Postdoctoral Researcher}
+\address{Munich, Germany}
+
+\email{marcel.walter@tum.de}
+\homepage{marcelwa.github.io}
+\github{marcelwa}
+\linkedin{marcel-walter-94b573195}
+\googlescholar{8wD80wMAAAAJ}{}
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+\makecvheader
+
+% Print the footer
+\makecvfooter
+  {\today}
+  {Marcel Walter~~~·~~~List of Publications}
+  {\thepage}
+
+\nocite{*}
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+
+% Reuse the existing publications section structure
+\input{cv/publications.tex}
+
+%-------------------------------------------------------------------------------
+\end{document}
