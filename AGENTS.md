@@ -1,15 +1,38 @@
 # Agent Notes: marcelwa.github.io
 
-This is Marcel Walter's personal academic website (Jekyll, GitHub Pages,
-academicpages-derived theme).
+This is Marcel Walter's personal academic website: a Jekyll site (GitHub
+Pages, `academicpages`/`minimal-mistakes`-derived theme) at
+https://marcelwa.github.io.
+
+## Site structure
+
+- `_pages/` — the static pages: `about.md` (home page, `/`), `cv.md`
+  (`/cv/`), `publications.md` (`/publications/`), `teaching.html`
+  (`/teaching/`), `talks.html` (`/talks/`), `portfolio.html`, plus archive
+  and utility pages (`sitemap.md`, `404.md`, `terms.md`, etc.).
+- `_publications/`, `_talks/`, `_teaching/` — Jekyll collections, one
+  Markdown file per item (publication, invited talk, or teaching role).
+  `publications.md`, `talks.html`, `teaching.html`, and `cv.md` all render
+  from these collections via `{% for post in site.<collection> reversed %}`
+  loops, so **adding an item to a collection updates every page that lists
+  it** — no need to hand-edit those pages separately.
+- `_data/` — YAML data (`authors.yml`, `navigation.yml`, `ui-text.yml`) and
+  Staticman comment storage.
+- `files/` — hosted PDFs (papers, award certificates) linked from
+  `_publications/*.md` and `_pages/cv.md`.
+- `assets/`, `_sass/`, `_layouts/`, `_includes/` — theme internals; rarely
+  need editing for content changes.
+- `talkmap.py` / `talkmap.ipynb` / `talkmap/` — generates the optional talk
+  map (disabled by default via `talkmap_link: false` in `_config.yml`).
+- `_config.yml` — site settings, including Jekyll's `exclude:` list
+  (controls what's copied into the built `_site/`, i.e. what actually goes
+  live — distinct from `.gitignore`, which only controls what git tracks).
 
 ## CV and publication list (LaTeX)
 
 `cv-source/` holds the LaTeX sources for Marcel's CV, cover letter, and
 publications list (Awesome-CV template, XeLaTeX + Roboto fonts under
-`cv-source/fonts/`). It was moved here from the `ptp` repo so the PDF CV and
-publication list live alongside the canonical record of the same content
-(this website), instead of a separate, harder-to-keep-in-sync repo.
+`cv-source/fonts/`).
 
 Key points:
 
@@ -25,22 +48,17 @@ Key points:
 * Build with `latexmk -xelatex cv.tex` (or `coverletter.tex` /
   `publications_list.tex`) from inside `cv-source/`. Requires XeLaTeX,
   latexmk, and biber.
-* The `ptp` repo (Marcel's private application-materials vault) keeps a
-  symlink at `CV -> ../marcelwa.github.io/cv-source` so existing workflows
-  there (`cd CV && latexmk ...`) keep working unchanged. **Edit the files
-  here** (or through that symlink — same underlying files); there is only
-  one copy.
 
 ## Keeping the PDF CV and the web CV in sync
 
-`_pages/cv.md` (the human-readable `/cv/` page) and `cv-source/cv.tex` +
-its `cv-source/cv/*.tex` sections describe the same career facts in two
-different formats. They are edited independently and can drift. When
-updating one, check whether the other needs the same update — e.g. a new
-job, award, or publication should normally go in both. `_publications/`
-(one Markdown file per paper) should stay in sync with
-`cv-source/bibliography.bib` the same way: a paper added to one should
-generally be added to the other too.
+`_pages/cv.md` and `cv-source/cv.tex` + its `cv-source/cv/*.tex` sections
+describe the same career facts in two different formats. They are edited
+independently and can drift. When updating one, check whether the other
+needs the same update — e.g. a new job, award, repository, or research
+interest should normally go in both. `_publications/` should stay in sync
+with `cv-source/bibliography.bib` the same way: a paper added to one
+should generally be added to the other too (title, venue, and — for
+`_publications/` — an abstract and a hosted PDF under `files/`).
 
 ## Instructions for future agents
 
@@ -51,3 +69,6 @@ generally be added to the other too.
    `_config.yml`'s `exclude:` list, keep `cv-source` in it.
 3. Don't commit LaTeX build junk — check `.gitignore` covers new artifact
    types if you introduce a new build tool.
+4. When adding a publication, add it to *both* `_publications/` (with a
+   hosted PDF in `files/`) and `cv-source/bibliography.bib`, so the web
+   list and the PDF publication list stay in sync.

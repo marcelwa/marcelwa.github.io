@@ -76,6 +76,12 @@ redirect_from:
   * Featured in several third-party publications (cf. the [citing papers](https://scholar.google.de/scholar?oi=bibs&hl=de&authuser=1&cites=6148414860275726732&as_sdt=5))
   * Honored with a Best Research Demo Award (see below)
 
+* Since 2025: Contributor to [Munich Quantum Toolkit (MQT) Core](https://github.com/munich-quantum-toolkit/core)
+  * Core library underlying the Munich Quantum Toolkit's quantum computing tools
+
+* Since 2025: Contributor and co-maintainer of [QDMI-on-IQM](https://github.com/iqm-finland/QDMI-on-IQM)
+  * QDMI device interface integration for IQM quantum computing hardware, connecting quantum accelerators to HPC infrastructure
+
 
 ## Challenges, Tutorials, and Contests
 
@@ -176,9 +182,12 @@ redirect_from:
   * Bash
   * Git
   * CI/CD
-* Reserach interests
+* Research interests
   * Field-coupled Nanocomputing
   * Quantum Computing
+  * Silicon Photonics
+  * Superconducting Chip Design
+  * HPCQC Integration
   * Cryogenic CMOS
   * Logic Synthesis and Optimization
   * Physical Design
@@ -217,6 +226,7 @@ redirect_from:
   * *The European Physical Journal Plus* (EPJ Plus)
   * *Mathematics*
 * Executive team for international conferences
+  * Member of the Technical Program Committee (TPC) for the *IEEE International Conference on Nanotechnology* (IEEE NANO) 2027
   * Program Co-Chair and member of the Technical Program Committee (TPC) for the *International Workshop on Logic and Synthesis* (IWLS) 2027
   * Judge for the Best Poster Award at the *IEEE International Conference on Nanotechnology* (IEEE NANO) 2026
   * Publicity Co-Chair and member of the Technical Program Committee (TPC) for the [*International Workshop on Logic and Synthesis* (IWLS) 2026](https://www.iwls.org/iwls2026/)
