@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* Habilitation Candidate, Technical University of Munich, since 2026
+* Habilitation Candidate, Technical University of Munich, 2027 (expected graduation)
   * Thesis: _Advanced Design Automation and Simulation for Atomic-Scale Computing_
 * Ph.D. in Computer Science (_summa cum laude_), University of Bremen, 2021
   * Thesis: _Design Automation for Field-coupled Nanotechnologies_
