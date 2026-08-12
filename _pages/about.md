@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the *Chair for Design Automation* (CDA) at the *Technical University of Munich* (TUM) and a Senior Quantum Software Engineer at [MQSC](https://mq.sc/). My research interests include design automation for computational nanotechnologies, quantum computing, logic synthesis, physical design, algorithmics, and formal methods.
+I am a Postdoctoral Researcher at the *Chair for Design Automation* (CDA) at the *Technical University of Munich* (TUM) and a Senior Quantum Software Engineer at [MQSC](https://mq.sc/). My research interests include design automation for atomic-scale computing, logic synthesis, physical design for photonic and quantum circuits, and high-performance computing systems.
 
 I work towards closing the design gap between **Field-coupled Nanocomputing** (FCN) circuits and classical CMOS technologies. As a promising class of post-CMOS devices, FCN technologies like **Quantum-dot Cellular Automata** (QCA) and **Silicon Dangling Bonds** (SiDBs) allow for ultra-high processing performance and, at the same time, tremendously low power dissipation. In recent years, particularly SiDBs have seen major breakthroughs in their fabrication capabilities.
 

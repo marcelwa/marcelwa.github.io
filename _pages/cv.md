@@ -63,16 +63,16 @@ redirect_from:
 
 ## Research Interests
 
-* **Design Automation for Post-CMOS Nanotechnologies:** Field-coupled Nanocomputing (Quantum-dot Cellular Automata, Silicon Dangling Bonds) --- logic synthesis, physical design, placement & routing, verification, and physical simulation
-* **Quantum Computing:** software and hardware integration for quantum computers, including cryogenic CMOS control electronics and HPC-quantum computing (HPCQC) integration
-* **Emerging Substrates:** silicon photonics and superconducting quantum circuit design, extending the same design-automation methodology to new physical substrates
-* **Algorithmic Foundations:** exact and heuristic combinatorial optimization, SAT/SMT-based synthesis and verification, graph algorithms, and computational complexity theory
+* **Design Automation for Atomic-Scale Computing:** full-stack design flows for emerging post-CMOS substrates like Silicon Dangling Bonds; compiling conventional RTL specifications down to verified, defect-aware physical layouts of individual atoms
+* **Logic Synthesis & Machine Learning:** bridging modern AI and classical logic synthesis; developing open-source frameworks to train machine-learning models for logic optimization and technology mapping
+* **Physical Design for Photonic & Quantum Circuits:** adapting planar, crossing-aware layout algorithms to emerging computing substrates including silicon photonics and superconducting qubits
+* **HPC & Quantum Systems Integration:** integrating quantum accelerators into high-performance computing infrastructure (HPCQC) and scaling design automation algorithms for distributed execution
 
 ## Languages
 
 * German (Native)
 * English (Fluent)
-* Dutch (B2)
+* Dutch (B1/B2)
 
 ## Honors and Awards
 
