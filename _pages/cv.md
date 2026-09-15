@@ -119,7 +119,7 @@ redirect_from:
   * **Honors and Awards:**
     * IEEE Nanotechnology Council (NTC) 2026 Best PhD Thesis Award
     * DATE 2025 Best Poster Award at the PhD Forum
-    * IEEE NANO 2024 Student Design Competition Winner: **"NanoLogic: An Educational App for Atomic-Scale Computing"**
+    * IEEE NANO 2025 Student Design Competition Winner: **"NanoLogic: An Educational App for Atomic-Scale Computing"**
 
 * **Dr. Simon Hofmann** (Technical University of Munich, 2026, _summa cum laude_)
   * Thesis: _Physical Design for Field-coupled Nanocomputing_
